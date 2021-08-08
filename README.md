@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, there!
+
+I'm **front-end developer** who mainly uses **React** 🌱  
+These days, I am studying core javascript, typescript, algorithm, and data structure.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesl-kim&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesl-kim&layout=compact&exclude_repo=self-introduction&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://yesl-kim.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yesl00k624@gmail.com)
+
+
+
 
 <!--
 **yesl-kim/yesl-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
